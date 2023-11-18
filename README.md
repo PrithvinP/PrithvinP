@@ -18,7 +18,6 @@ Gas leakage detection System using IoT
 🌐 **Web Security** | 📡 **Network Security** | 🤖 **AI in Cybersecurity**
 
 ### Connect with Me
-<script src="https://tryhackme.com/badge/598527"></script>
 🔗 LinkedIn: https://www.linkedin.com/in/prithvin6
 
 ### Let's Collaborate!
