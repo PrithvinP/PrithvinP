@@ -15,7 +15,7 @@ Gas leakage detection System using IoT
 🤖 **Automation in Security** - Exploring ways to automate security measures for enhanced efficiency.
 
 ### Interests
-🌐 **Web Security** | 📡 **Network Security** | 🤖 **AI in Cybersecurity**
+🌐 **Web Security** | 📡 **Network Security** | 🤖 **AI in Cybersecurity** | **CTF**
 
 ### Connect with Me
 🔗 LinkedIn: https://www.linkedin.com/in/prithvin6
